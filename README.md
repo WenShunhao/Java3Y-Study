@@ -329,15 +329,6 @@
 - [从零单排学Redis【铂金二】](https://mp.weixin.qq.com/s?__biz=MzI4Njg5MDA5NA==&mid=2247484451&idx=1&sn=5495b1165954cd6b84b011489e04a66b&chksm=ebd74522dca0cc3416ab0ccd3a4ddb4ddd28290c9769596a069d81df3b03f4bad72e27d30a6d&token=620000779&lang=zh_CN&scene=21###wechat_redirect)
 - [面试前必须要知道的Redis面试题](https://mp.weixin.qq.com/s?__biz=MzI4Njg5MDA5NA==&mid=2247484609&idx=1&sn=4c053236699fde3c2db1241ab497487b&chksm=ebd745c0dca0ccd682e91938fc30fa947df1385b06d6ae9bb52514967b0736c66684db2f1ac9###rd)
 
-###  :vhs:面试  ###
-
-  
-- [能不能好好写简历？](https://mp.weixin.qq.com/s?__biz=MzI4Njg5MDA5NA==&mid=2247485072&idx=1&sn=cf642163420fc9d29fb480723d60aed9&chksm=ebd74791dca0ce873639c2478cd723536d6c623b4d3ca6040ac649f4491d8f36f9833695a159&token=1755043505&lang=zh_CN###rd)
-- [面试前需要了解的东西](https://mp.weixin.qq.com/s?__biz=MzI4Njg5MDA5NA==&mid=2247484283&idx=1&sn=f76ac6442633c4d5fa3a2cad6a1faf9b&chksm=ebd7427adca0cb6c29db475ed1bfdef9d7d768615f1b8ab02da7fc08c7807476dce7d55b32cf&scene=21###wechat_redirect)
-- [【Java】几道让你拿offer的面试题](https://mp.weixin.qq.com/s?__biz=MzI4Njg5MDA5NA==&mid=2247484306&idx=1&sn=a305e8e7da212c44c233a04ec328cdd2&chksm=ebd74293dca0cb856896abe4d729c15dc4c328699c543b7a60b8650d7c3ed52a418d7103ab13&scene=21###wechat_redirect)
-- [【Java】留下没有基础眼泪的面试题](https://mp.weixin.qq.com/s?__biz=MzI4Njg5MDA5NA==&mid=2247484328&idx=1&sn=044a7bc43c9a9f4ad43d23f9fcb248ff&chksm=ebd742a9dca0cbbff7a6314c83543a528c74a54d3e7e7ece60f258016c37723c024a72e2f9f2&token=620000779&lang=zh_CN&scene=21###wechat_redirect)
-- [【Java】几道常见的秋招面试题](https://mp.weixin.qq.com/s?__biz=MzI4Njg5MDA5NA==&mid=2247484721&idx=3&sn=c18ab053895900ae05b3973844999da5&chksm=ebd74430dca0cd26844abe4f86ddd031059c77e924bed409326e3474725495349f08ca75da7d&token=1676899695&lang=zh_CN###rd)
-- [金三银四，二月就要准备！](https://mp.weixin.qq.com/s?__biz=MzI4Njg5MDA5NA==&mid=2247484755&idx=1&sn=980fc039a325939d7830a2d16726c589&chksm=ebd74452dca0cd441ad1ce2e650c2a7daf6dff2296ff8e4756cb1557a7f724f55a5321163e9b###rd)
 
 ###  :ghost:ZooKeeper 
 
@@ -414,37 +405,8 @@
 - [运输层](https://mp.weixin.qq.com/s?__biz=MzI4Njg5MDA5NA==&mid=2247484322&idx=7&sn=cde9aa52b0c62efc642401c87e9a8c01&chksm=ebd742a3dca0cbb53a459c500e310dc49fccf8df577b95806aaf34d3220c288337cc6d4132fe&token=620000779&lang=zh_CN&scene=21###wechat_redirect)
 - [应用层](https://mp.weixin.qq.com/s?__biz=MzI4Njg5MDA5NA==&mid=2247484322&idx=8&sn=9dda601c5387ed04fbd7bfd83fda0da1&chksm=ebd742a3dca0cbb52d4993e0b4c38199520a685b5b966e7c43679c310c14dc5b535551876e79&token=620000779&lang=zh_CN&scene=21###wechat_redirect)
 
-###  :christmas_tree:个人  ###
 
-  
 
-- [广州三本找Java实习经历](https://mp.weixin.qq.com/s?__biz=MzI4Njg5MDA5NA==&mid=2247484273&idx=1&sn=1eb9112e1ab1004b3040a66b76ad5646&chksm=ebd74270dca0cb663beb878ae31e39c3cc14bc56f1db62f426f5b4cb34b9a804a0bf7cbd9a27&mpshare=1&scene=1&srcid=03165YpvHAqLTO2urYx0OLVM###rd)
-- [两个月的Java实习结束，继续努力](https://mp.weixin.qq.com/s?__biz=MzI4Njg5MDA5NA==&mid=2247484339&idx=1&sn=245ded79611ef47e07e5f996ffc0d6c8&chksm=ebd742b2dca0cba4de49ce9302630d04dc68252f58213e8726344f98b412b8c61881896b5587&token=620000779&lang=zh_CN&scene=21###wechat_redirect)
-- [【Java】广州三本秋招之路](https://mp.weixin.qq.com/s?__biz=MzI4Njg5MDA5NA==&mid=2247484346&idx=1&sn=fbb1f63281cebe031a689fea58dee607&chksm=ebd742bbdca0cbadaa852dba5a953fc0e597fa64c25dd1fe67861b09dcad7e0dab2708fdcd8c&token=620000779&lang=zh_CN&scene=21###wechat_redirect)
-- [写博客的一些感想和想对读者说的话](https://mp.weixin.qq.com/s?__biz=MzI4Njg5MDA5NA==&mid=2247484424&idx=1&sn=2acbe1a65a93755bd368bd02c5c8a21e&chksm=ebd74509dca0cc1fb9f2ae96d76cbfdb8ff12303c574e77bc036cfc6d2c1ab0220f5f6f92bb2&token=620000779&lang=zh_CN&scene=21###wechat_redirect)
-- [2018再见，2019你好](https://mp.weixin.qq.com/s?__biz=MzI4Njg5MDA5NA==&mid=2247484564&idx=1&sn=2390075154749f89e85f4d410309cbd1&chksm=ebd74595dca0cc8357c4acc62c1f7f3c7f2198c320e8d5ca39df3e12dc5604ce6a029d6bd003&token=1712662964&lang=zh_CN###rd)
-- [过年了，给亲朋好友解释「啥是程序员」](https://mp.weixin.qq.com/s?__biz=MzI4Njg5MDA5NA==&mid=2247484732&idx=1&sn=2f478a802024b648a2814ff2bd77c6f9&chksm=ebd7443ddca0cd2bb28bf6f923a6d96a54b491790bfa18d98dea67c4172b2a0bc36d29ce89d1&token=1676899695&lang=zh_CN###rd)
-- [嗯，我来杭州了。](https://mp.weixin.qq.com/s?__biz=MzI4Njg5MDA5NA==&mid=2247484879&idx=1&sn=d048367a8fefdddb860d832a96bdbb0a&chksm=ebd744cedca0cdd8818c4bd6bf47244f67cdbd1587793245a21306c95541c5ee713b2a74d120###rd)
-- [近况](https://mp.weixin.qq.com/s?__biz=MzI4Njg5MDA5NA==&mid=2247485265&idx=1&sn=ac4c4b6c854991b963e9acb65b664ef0&chksm=ebd74650dca0cf46cbe7f7cd40b2fc617eab686a8feffbd7074e230dc202988fefd64cf2250a&token=1424412820&lang=zh_CN###rd)
-- [什么是保险](https://mp.weixin.qq.com/s?__biz=MzI4Njg5MDA5NA==&mid=2247485272&idx=1&sn=01a1d5b1949d2b50790ee782b8177f83&chksm=ebd74659dca0cf4f34f383890196337f99df40c8a61a3e73330033c79d0f4fb94f8419a4b759&token=1424412820&lang=zh_CN###rd)
-- [在公司做的项目和自己在学校做的有什么区别？](https://mp.weixin.qq.com/s?__biz=MzI4Njg5MDA5NA==&mid=2247485368&idx=1&sn=59742409160a103eddaa6ca187a77256&chksm=ebd746b9dca0cfaffd61b35a810d806f7eea67c5a0dec820ae65be093d81abf49ac19ab1248b&token=1120664639&lang=zh_CN###rd)
-- [互联网/电商/广告常见的术语](https://mp.weixin.qq.com/s?__biz=MzI4Njg5MDA5NA==&mid=2247485378&idx=1&sn=801ec71dd44b1fc6099379e6e5acc8b8&chksm=ebd746c3dca0cfd55e4db80f2f6129244583c3ec2656604b33e2c228790e719d53b3df6c7101&token=1120664639&lang=zh_CN###rd)
-- [程序员的快乐就是这么朴素无华且枯燥](https://mp.weixin.qq.com/s?__biz=MzI4Njg5MDA5NA==&mid=2247485383&idx=1&sn=04cb857dc5636b28ecdaf51221e5798f&chksm=ebd746c6dca0cfd0f87ff338f09a0e3a102a729f503090a3305a2bad0ba7270503ea0c8fe39c&token=1120664639&lang=zh_CN###rd)
-
-###  :lollipop:推荐阅读  ###
-
-> 这一部分是我觉得非常不错的文章，推荐一下
-
-#### :flags:经历/路线
-
-- [双非硕士的春招秋招经验总结——对校招，复习以及面试心态的理解](https://mp.weixin.qq.com/s?__biz=MzI4Njg5MDA5NA==&mid=2247484435&idx=1&sn=2faac7b96f4c077ffc2586c0425baa0f&chksm=ebd74512dca0cc0432f305969cac84b2e2b8892e90b0151a0ad9fcc740b4e23c719a04598d9c&token=620000779&lang=zh_CN&scene=21###wechat_redirect)
-- [程序员「在知乎装逼被怼」，决定用『面试』证明自己](https://mp.weixin.qq.com/s?__biz=MzI4Njg5MDA5NA==&mid=2247484873&idx=1&sn=9932aef82c2916cdc036a00c96ef044d&chksm=ebd744c8dca0cdde98fc690a801c9507edf40bcd286cfe6269517616dc795eb0b79edb5374f5###rd)
-- [Java 工程师成神之路 | 2019正式版](https://mp.weixin.qq.com/s?__biz=MzI4Njg5MDA5NA==&mid=2247484938&idx=1&sn=ccfcf32e38b863f44500e5ab7540d95f&chksm=ebd7470bdca0ce1dfb0b5a9e56cc2faaf74e96e3f431ce0001c18e93cbf020a6c2b9f9cc684d###rd)
-- [一个二本大佬的成长之路](https://mp.weixin.qq.com/s?__biz=MzI4Njg5MDA5NA==&mid=2247485028&idx=1&sn=54c12f46e37f33ddfa2b19ee3f4039ca&chksm=ebd74765dca0ce736d47bc553a319e235593aa00acd11db7ab0187038bede75ba33e45a09d92&token=1755043505&lang=zh_CN###rd)
-- [大飞哥总结的算法学习经验](https://mp.weixin.qq.com/s?__biz=MzI4Njg5MDA5NA==&mid=2247485256&idx=1&sn=865e803580570dc50fa41d1111c9be39&chksm=ebd74649dca0cf5f3cc8120f93890ed22bff07ae7ebb1dc1e010c8f461f85b23acb47df38113&token=1424412820&lang=zh_CN###rd)
-- [大佬准备了一年时间拿到今日头条offer](https://mp.weixin.qq.com/s?__biz=MzI4Njg5MDA5NA==&mid=2247485413&idx=1&sn=38b1993abb3d2fd0c213da436570130f&chksm=ebd746e4dca0cff29eb0298ec2e11de1d24f00bd78fabf69bf4805e147701f3af013d0033981&token=2078489135&lang=zh_CN###rd)
-- [地哥的腾讯面试经历](https://mp.weixin.qq.com/s?__biz=MzI4Njg5MDA5NA==&mid=2247485180&idx=1&sn=708552984444508ae12fc831c8392197&chksm=ebd747fddca0ceeb9645b89daa605af4e98a6cca4532e10e6d342239774c3631b6c73343e2de&token=1230572157&lang=zh_CN###rd)
-- [Github上有哪些Java面试/学习相关的仓库推荐?](https://mp.weixin.qq.com/s?__biz=MzI4Njg5MDA5NA==&mid=2247485482&idx=1&sn=e8dbe8e92378b7cc623e8ae9aaf3e8e4&chksm=ebd7492bdca0c03deac964fc41a9bdd41ccc9f1b9caeeb9164bb5417bbb98c2acc1b85334b85&token=2078489135&lang=zh_CN###rd)
 
 #### :clipboard:基础
 
